@@ -1,0 +1,41 @@
+.buy{
+    background-color: #F0EFFF
+}
+.try{
+    padding: 0;
+}
+.tab{
+    margin-left:60%;
+}
+.nav{
+    flex-wrap: nowrap;
+}
+.tib{
+        margin-left: 300%;
+}
+.awesome{
+    margin-left: 64%;
+}
+.hit{
+    position: relative;
+    
+}
+.big{
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    left: 50%;
+    background-color: rgba(242, 243, 242, 0.63);
+    margin: auto;
+}
+.font{
+    font-weight: normal;
+}
+
+
+
+
+
+
+
